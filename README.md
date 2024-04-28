@@ -1,2 +1,2 @@
 # Grabdash-frontend
-Grabdash frontendb project
+Grabdash frontend project
